@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm Irfan Ali</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | JavaScript Lover</h3>
 
 <!-- Typing Animation -->
 <p align="center">

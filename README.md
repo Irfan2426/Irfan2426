@@ -10,10 +10,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
-
-<!-- Floating Icons Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Irfan2426/Irfan2426/main/animated-tech-stack.svg" width="500px"/>
-</p>
-
----
